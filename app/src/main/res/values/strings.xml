@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WA ToolKit</string>
+
+    <string name="smile_rating_terrible">Terrible</string>
+    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_good">Good</string>
+    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="disconnected">disconnected</string>
+
+    <string name="message_number_empty">Please enter number</string>
+    <string name="message_number_error">Number not registered correctly</string>
+    <string name="sends">SEND</string>
+    <string name="enterNumber">Enter Number</string>
+    <string name="enterMessage">Enter Message </string>
+    <string name="directChatInfoNote">Note: it Does not store the number</string>
+    <string name="directChatInfo">This Application uses WhatsApp services to start a conversation with any number included.</string>
+    <string name="whatsappCleaner">WhatsApp Cleaner</string>
+    <string name="cleanSuccess">Clean Successfully</string>
+    <string name="clearCatch">This Cleaner does not clear cache or
+        something absurd to boost your WhatsApp, it goes deep inside and delete junk
+        to make your WhatsApp smooth. NOTE: This process will delete all the Sent folders
+        from your WhatsApp media but you are not going to lose any data during this process.</string>
+    <string name="thank_des">We hope your experience is awesome and we can\'t wait to see you again soon.</string>
+    <string name="thank_you">Thank You</string>
+
+</resources>
